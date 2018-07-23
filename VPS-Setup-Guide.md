@@ -35,8 +35,9 @@ After some minutes check your email, you should receive letter
 ![Alt text](https://github.com/bettexproject/bettexnodescript/blob/master/icons/6.png)
 
 ```
-Download and install [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) and use the information for authorization from the letter.
+Download, install putty and use the information for authorization from the letter.
 ```
+[Download putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 ![Alt text](https://github.com/bettexproject/bettexnodescript/blob/master/icons/7.png)
 ![Alt text](https://github.com/bettexproject/bettexnodescript/blob/master/icons/8.png)
 
