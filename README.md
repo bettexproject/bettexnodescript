@@ -1,5 +1,5 @@
 # Bettex coin
-Shell script to install an [Bettex coin masternode](http://bettex.bet/) on a Linux server running Ubuntu 16.04. Use it on your own risk.  
+Shell script to install a [Bettex coin masternode](http://bettex.bet/) on a Linux server running Ubuntu 16.04. Use it on your own risk.  
 ***
 
 
