@@ -1,5 +1,5 @@
 # Bettex coin
-[Instruction for prepare VPS server](https://github.com/bettexproject/bettexnodescript/blob/master/VPS-Setup-Guide.md)
+Instruction for prepare [VPS server](https://github.com/bettexproject/bettexnodescript/blob/master/VPS-Setup-Guide.md)
 Shell script to install a [Bettex coin masternode](http://bettex.bet/) on a Linux server running Ubuntu 16.04. Use it on your own risk.  
 ***
 
