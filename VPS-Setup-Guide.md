@@ -35,7 +35,7 @@ After a few minutes, check your email, you should receive a letter
 ![Alt text](https://github.com/bettexproject/bettexnodescript/blob/master/icons/6.png)
 
 ```
-Download, install putty
+Download and install PUTTY
 After a few minutes, try to log in use the information from the email
 ```
 [Download putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
