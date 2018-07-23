@@ -18,26 +18,27 @@ After the MN is up and running, you need to configure the desktop wallet accordi
 3. Send **5000** BTXC to **MN1**.  
 4. Wait for 15 confirmations.  
 5. Go to **Tools -> "Debug Console"**  
-6. Type the following command: **masternode outputs**  
-7. Go to  **Tools -> "Open Masternode Configuration File"**
-8. Add the following entry:
+6. Type the following command: **masternode outputs**
+7. Type the following command: **masternode genkey**
+8. Go to  **Tools -> "Open Masternode Configuration File"**
+9. Add the following entry:
 ```
 Alias Address Privkey TxHash TxIndex
 ```
 * Alias: **MN1**
 * Address: **VPS_IP:PORT**
-* Privkey: **Masternode Private Key**
+* Privkey: **Value from Step 7**
 * TxHash: **First value from Step 6**
 * TxIndex:  **Second value from Step 6**
-9. Save and close the file.
-10. Go to **Masternode Tab**. If you tab is not shown, please enable it from: **Settings - Options - Wallet - Show Masternodes Tab**
-11. Click **Update status** to see your node. If it is not shown, close the wallet and start it again. Make sure the wallet is unlocked.
-12. Select your MN and click **Start Alias** to start it.
-13. Alternatively, open **Debug Console** and type:
+10. Save and close the file.
+11. Go to **Masternode Tab**. If you tab is not shown, please enable it from: **Settings - Options - Wallet - Show Masternodes Tab**
+12. Click **Update status** to see your node. If it is not shown, close the wallet and start it again. Make sure the wallet is unlocked.
+13. Select your MN and click **Start Alias** to start it.
+14. Alternatively, open **Debug Console** and type:
 ```
 masternode start-alias false MN1
 ```
-14. Login to your VPS and check your masternode status by running the following command. If you get **status 4**, it means your masternode is active.
+15. Login to your VPS and check your masternode status by running the following command. If you get **status 4**, it means your masternode is active.
 ```
 bettex-cli masternode status
 ```
