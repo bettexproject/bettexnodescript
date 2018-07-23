@@ -30,12 +30,13 @@ Choose a host name and push the button "Create"
 ![Alt text](https://github.com/bettexproject/bettexnodescript/blob/master/icons/5.png)
 
 ```
-After some minutes check your email, you should receive letter
+After a few minutes, check your email, you should receive a letter
 ```
 ![Alt text](https://github.com/bettexproject/bettexnodescript/blob/master/icons/6.png)
 
 ```
-Download, install putty and use the information for authorization from the letter.
+Download, install putty
+After a few minutes, try to log in use the information from the email
 ```
 [Download putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
