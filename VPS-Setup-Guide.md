@@ -1,4 +1,4 @@
-## How to create VPS server
+## How to prepare VPS server
 
 1. Go to a website VPS provider e.g. [DigitalOcean](https://m.do.co/c/da2cd5eff34d) or others.
    - Recommended VPS size at least 1gb RAM
