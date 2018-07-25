@@ -28,7 +28,7 @@ wget -N https://raw.githubusercontent.com/bettexproject/bettexnodescript/master/
 bash bettexcoin_install.sh
 !!!USE a privkey value, from step 6 for insert during installation Bettex coin masternode, when you see "Enter your bettex Masternode Private Key.!!!
 ```
-13. Type the following command: **watch bettex-cli getinfo** to check and wait till it's synced (look for blocks number and compare with block [explorer](explorer.bettex.bet))
+13. Type the following command: **watch bettex-cli getinfo** to check and wait till it's synced (look for blocks number and compare with block [explorer](http://explorer.bettex.bet/))
 14. Open the Bettex coin Desktop Wallet and wait till it's synced.
 15. Go to **Masternode Tab**. If you tab is not shown, please enable it from: **Settings - Options - Wallet - Show Masternodes Tab**
 16. Select your MN and click **Start Alias** to start it.
