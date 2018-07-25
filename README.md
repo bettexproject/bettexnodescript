@@ -1,8 +1,8 @@
 # Bettex coin version 2.0.0.3
 
-## Desktop wallet setup  
+## Bettex coin masternode setup  
 
-After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps:  
+You need to configure the desktop wallet and VPS server. Here are the steps:  
 1. Open the Bettex coin Desktop Wallet.  
 2. Go to RECEIVE and create a New Address: **MN1**  
 3. Send **5000** BTXC to **MN1**.  
