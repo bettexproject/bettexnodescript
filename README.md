@@ -30,13 +30,13 @@ bash bettexcoin_install.sh
 ```
 13. Type the following command: **watch bettex-cli getinfo** to check and wait till it's synced (look for blocks number and compare with block [explorer](explorer.bettex.bet))
 14. Open the Bettex coin Desktop Wallet and wait till it's synced.
-13. Go to **Masternode Tab**. If you tab is not shown, please enable it from: **Settings - Options - Wallet - Show Masternodes Tab**
-15. Select your MN and click **Start Alias** to start it.
-16. Alternatively, open **Debug Console** and type:
+15. Go to **Masternode Tab**. If you tab is not shown, please enable it from: **Settings - Options - Wallet - Show Masternodes Tab**
+16. Select your MN and click **Start Alias** to start it.
+17. Alternatively, open **Debug Console** and type:
 ```
 masternode start-alias false MN1
 ```
-17. Check your masternode status by running the following command, type it into the PUTTY terminal. If you get **status 4**, it means your masternode is active.
+18. Check your masternode status by running the following command, type it into the PUTTY terminal. If you get **status 4**, it means your masternode is active.
 ```
 bettex-cli masternode status
 ```
