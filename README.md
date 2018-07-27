@@ -62,7 +62,7 @@ In order to update your Bettex coin Masternode from 2.0.0.3 to 2.1.0.3, please r
 ```
 cd /tmp
 wget -N https://github.com/bettexproject/bettexnodescript/releases/download/2.1.0.3/bettex_coin-2.1.0.3-linux-daemon.tar.gz
-tar xvzf bettex_coin-2.1.0.3-linux-daemon.tar.g
+tar xvzf bettex_coin-2.1.0.3-linux-daemon.tar.gz
 systemctl stop bettex
 mv bettexd bettex-cli /usr/local/bin
 systemctl start bettex
