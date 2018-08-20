@@ -122,6 +122,24 @@ maxconnections=256
 masternode=1
 externalip=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
+addnode=seed1.bettex.bettex
+addnode=seed2.bettex.bettex
+addnode=209.97.186.14
+addnode=178.128.43.86
+addnode=142.93.109.115
+addnode=46.101.40.77
+addnode=45.76.15.33
+addnode=209.250.246.255
+addnode=104.156.249.126
+addnode=78.24.221.43
+addnode=163.172.176.20
+addnode=138.68.111.87
+addnode=178.62.236.129
+addnode=51.15.100.116
+addnode=80.211.111.39
+addnode=45.77.103.211
+addnode=144.202.7.200
+addnode=45.63.2.206
 EOF
 }
 
