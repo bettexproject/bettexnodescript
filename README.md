@@ -63,7 +63,7 @@ In order to update your Bettex coin Masternode from 3.0.1.1 to 3.1.1.1, please r
 ```
 cd /tmp
 wget -N https://github.com/bettexproject/bettexnodescript/releases/download/3.1.1.1/bettex_coin-3.1.1.1-linux-daemon.tar.gz
-tar xvzf bettex_coin-3.0.1.1-linux-daemon.tar.gz
+tar xvzf bettex_coin-3.1.1.1-linux-daemon.tar.gz
 systemctl stop bettex
 mv bettexd bettex-cli /usr/local/bin
 systemctl start bettex
