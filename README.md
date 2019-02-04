@@ -1,4 +1,4 @@
-# Bettex coin version 3.1.1.2
+# Bettex coin version 3.1.1.3
 
 ## Bettex coin masternode setup  
 
@@ -59,11 +59,11 @@ systemctl is-enabled bettex.service #To check if bettex service is enabled on bo
 ***
 
 ## Masternode update:
-In order to update your Bettex coin Masternode from 3.1.1.1 to 3.1.1.2, please run the following commands:
+In order to update your Bettex coin Masternode from 3.1.1.2 to 3.1.1.3, please run the following commands:
 ```
 cd /tmp
-wget -N https://github.com/bettexproject/bettexnodescript/releases/download/3.1.1.2/bettex_coin-3.1.1.2-linux-daemon.tar.gz
-tar xvzf bettex_coin-3.1.1.2-linux-daemon.tar.gz
+wget -N https://github.com/bettexproject/bettexnodescript/releases/download/3.1.1.3/bettex_coin-3.1.1.3-linux-daemon.tar.gz
+tar xvzf bettex_coin-3.1.1.3-linux-daemon.tar.gz
 systemctl stop bettex
 mv bettexd bettex-cli /usr/local/bin
 systemctl start bettex
